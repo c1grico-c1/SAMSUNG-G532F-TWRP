@@ -10,7 +10,7 @@ This project is a visually and systemically customized, Turkish-focused version 
 - **Language Optimization:** Removed unnecessary language files and optimized the default interface language to Turkish.
 
 ## 🛠️ Installation
-1. Transfer the `image-new.img` file to your device's internal storage or SD card.
+1. Transfer the `G532F.img` file to your device's internal storage or SD card.
 2. Boot into your current TWRP recovery and navigate to `Install` -> `Install Image`.
-3. Select the `image-new.img` file from your storage.
+3. Select the `G532F.img` file from your storage.
 4. Choose **Recovery** as the target partition and swipe to confirm the flash.
